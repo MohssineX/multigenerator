@@ -32,7 +32,7 @@ print("\033c", end="")
 
 try :
 
-    print(f"{color_light_blue}====================Welocme to MultiGenerator===================={color_reset}")
+    print(f"{color_light_blue}====================Welcome to MultiGenerator===================={color_reset}")
     print()
     user_q = input(f"{color_light_blue}Press enter to start use MultiGenerator or enter '--help' to help for use MultiGenerator : {color_reset}")
     print()
