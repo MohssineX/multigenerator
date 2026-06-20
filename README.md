@@ -34,8 +34,8 @@ No third-party dependencies are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/MultiRight/MultiCalculator
-cd MultiCalculator
+git clone https://github.com/MultiRight/MultiGenerator
+cd MultiGenerator
 ```
 
 ---
