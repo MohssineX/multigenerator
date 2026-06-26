@@ -27,7 +27,7 @@ cd MultiGenerator
 
 **2. Run the script**
 ```bash
-python multigenerator.py
+python MultiGenerator.py
 ```
 
 ---
