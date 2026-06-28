@@ -59,26 +59,17 @@ The program will always tell you what went wrong and let you try again. Here is 
 | err102 | The number is too small or too big | Pick a number between 16 and 32 |
 | err103 | You typed something other than r or q | Type exactly `r` or `q` |
 
----
-
-## Author
-
-MultiRight : https://github.com/MultiRight
-
----
-## Repository
-
-Repository: [https://github.com/MultiRight/MultiGenerator](https://github.com/MultiRight/MultiGenerator)
-
----
-## Copyright
-
-Copyright (C) 2026 MultiRight https://github.com/MultiRight
 
 ---
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**.
+
+---
+
+## Author
+
+MultiRight : https://github.com/MultiRight
 
 ---
 ## 🐱 Special Thanks
