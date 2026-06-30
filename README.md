@@ -8,6 +8,7 @@ A simple tool that creates strong, random passwords for you.
 
 MultiGenerator is a small Python program that runs in your terminal and generates secure passwords. Just pick a length, and it gives you a password ready to use.
 
+
 ---
 
 ## Requirements
