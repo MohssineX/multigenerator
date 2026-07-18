@@ -16,7 +16,8 @@ A lightweight terminal utility for generating strong and random passwords.
 
 ## Requirements
 
-* Python 3.x
+* Python 3.6 or later
+* Terminal with ANSI escape sequence support
 
 No additional dependencies are required.
 
